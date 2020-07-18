@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BestTimes.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Done_PlayerController.cs" Line="33" Column="9" />
+      <File FileName="Assets\Scripts\BestTimes.cs" Line="32" Column="14" />
+      <File FileName="Assets\Scripts\Done_DestroyByContact.cs" Line="28" Column="38" />
+      <File FileName="Assets\Scripts\Done_GameController.cs" Line="75" Column="23" />
+      <File FileName="Assets\Scripts\Done_Mover.cs" Line="13" Column="1" />
+      <File FileName="Assets\SaveData.cs" Line="14" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
